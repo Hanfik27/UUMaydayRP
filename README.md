@@ -1,2 +1,2 @@
-### Calculator for GTA SA-MP 
-#### Server KAN Roleplay & Police RP
+### Calc for GTA SA-MP 
+#### Server Mayday & Police RP
