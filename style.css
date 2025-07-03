@@ -86,3 +86,11 @@ button {
   padding: 5px 10px;
   margin-top: 10px;
 }
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.9em;
+  color: #666;
+}
+
